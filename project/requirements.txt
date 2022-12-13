@@ -1,0 +1,8 @@
+'''
+pillow package
+csv package
+tkinter package
+urllib3 package
+requests package
+random package
+'''
